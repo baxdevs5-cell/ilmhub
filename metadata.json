@@ -1,0 +1,6 @@
+{
+  "name": "ILMHUB — TESTLAR MAKONI",
+  "description": "A modern futuristic educational testing platform inside an interactive universe. Test knowledge across mathematics, physics, chemistry, languages and more with real-time analytics and cosmic immersion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
